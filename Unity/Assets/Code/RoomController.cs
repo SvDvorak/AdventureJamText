@@ -18,7 +18,7 @@ namespace FyreVMDemo.Game
         /// <param name="sDirection"></param>
         public void GoToDirection(string sDirection)
         {
-            GlulxStateService.Instance.GoToDirection(sDirection);
+            GlulxStateService_Old.Instance.GoToDirection(sDirection);
         }
     }
 }
