@@ -7,7 +7,7 @@ namespace FyreVMDemo.Game
     {
         public TextAsset UlxFile;
 
-        protected void Start()
+        protected void Awake()
         {
             GlulxStateService.Instance.LoadGlulxData(UlxFile);
             GlulxStateService.Instance.InitialScene();

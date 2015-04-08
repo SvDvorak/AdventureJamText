@@ -29,6 +29,7 @@ namespace Assets.Code
 		public event Action<string> UpdatedMainState;
 
 		private EngineWrapper _fyreVmWrapper;
+		public string CurrentMainText { get; private set; }
 
 		public void LoadGlulxData(object data)
 		{
@@ -57,14 +58,15 @@ namespace Assets.Code
 		{
 			_fyreVmWrapper.SendCommand(text);
 
-			SendMainStateChanged(_fyreVmWrapper.FromHash("MAIN"));
+			CurrentMainText = _fyreVmWrapper.FromHash("MAIN");
+            SendMainStateChanged();
         }
 
-		private void SendMainStateChanged(string mainText)
+		private void SendMainStateChanged()
 		{
 			if (UpdatedMainState != null)
 			{
-				UpdatedMainState(mainText);
+				UpdatedMainState(CurrentMainText);
 			}
 		}
 	}

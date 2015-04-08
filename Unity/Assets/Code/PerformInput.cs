@@ -23,8 +23,9 @@ public class PerformInput : MonoBehaviour
 		{
 			GlulxStateService.Instance.Perform(_inputField.text);
 			_inputField.text = "";
-			_inputField.Select();
-			_inputField.ActivateInputField();
 		}
+
+		_inputField.Select();
+		_inputField.ActivateInputField();
 	}
 }

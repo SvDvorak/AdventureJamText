@@ -9,6 +9,12 @@ public class MainStateTextUpdater : MonoBehaviour
 	void Start ()
 	{
 		_textComponent = GetComponent<Text>();
-		GlulxStateService.Instance.UpdatedMainState += newText => _textComponent.text = newText;
+		GlulxStateService.Instance.UpdatedMainState += UpdateStateText;
+		UpdateStateText(GlulxStateService.Instance.CurrentMainText);
+	}
+
+	private void UpdateStateText(string newText)
+	{
+		_textComponent.text = newText;
 	}
 }
