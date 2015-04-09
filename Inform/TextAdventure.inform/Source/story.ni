@@ -8,9 +8,7 @@ A closed container called your backpack is here. Your backpack is openable. Your
 In the backpack is a watch and a wallet.
 
 Before opening the backpack:
-	select the event channel;
-	say "backpack";
-	select the main channel.
+	perform event "backpack";
 
 Tent is outside from Campground.
 

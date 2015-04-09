@@ -1346,6 +1346,11 @@ To Select the End Game Channel:
 To Select the Event Channel:
   (- if (is_fyrevm) FyreCall(FY_CHANNEL, FYC_EVENT); -);
 
+To Perform event (T - text):
+  Select the Event Channel;
+  say T;
+  Select the Main Channel.
+
 Chapter 5 - Transition Requested
 
 To Request Transition:
