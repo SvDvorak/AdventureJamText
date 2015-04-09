@@ -1,18 +1,18 @@
 ! Blurb file created by Inform build 6L38
 
-status "C:\Program Files (x86)\Inform 7\Internal\Miscellany\CblorbModel.html" "F:\Personal\Programming\AdventureJamText\Inform\TextAdventure.inform\Build\StatusCblorb.html"
+status "C:\Program Files (x86)\Inform 7\Internal\Miscellany\CblorbModel.html" "C:\Users\Andreas\Documents\Programming\AdventureJamText\Inform\TextAdventure.inform\Build\StatusCblorb.html"
 
 
 ! Identification
 
-project folder "F:\Personal\Programming\AdventureJamText\Inform\TextAdventure.inform"
-release to "F:\Personal\Programming\AdventureJamText\Inform\TextAdventure.materials\Release"
+project folder "C:\Users\Andreas\Documents\Programming\AdventureJamText\Inform\TextAdventure.inform"
+release to "C:\Users\Andreas\Documents\Programming\AdventureJamText\Inform\TextAdventure.materials\Release"
 
 ! Blorb instructions
 
 storyfile leafname "TextAdventure.gblorb"
-storyfile "F:\Personal\Programming\AdventureJamText\Inform\TextAdventure.inform\Build\output.ulx" include
-ifiction "F:\Personal\Programming\AdventureJamText\Inform\TextAdventure.inform\Metadata.iFiction" include
+storyfile "C:\Users\Andreas\Documents\Programming\AdventureJamText\Inform\TextAdventure.inform\Build\output.ulx" include
+ifiction "C:\Users\Andreas\Documents\Programming\AdventureJamText\Inform\TextAdventure.inform\Metadata.iFiction" include
 cover "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Cover.jpg"
 picture 1 "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Cover.jpg"
 

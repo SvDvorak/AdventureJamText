@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Code\EventActionTest.cs" />
     <Compile Include="Assets\Code\ForceFocusSingleController.cs" />
     <Compile Include="Assets\Code\GameConstants.cs" />
     <Compile Include="Assets\Code\GameInit.cs" />

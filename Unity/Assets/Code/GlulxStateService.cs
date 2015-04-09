@@ -27,6 +27,7 @@ namespace Assets.Code
 		#endregion
 
 		public event Action<string> UpdatedMainState;
+		public event Action<string> EventOccurred;
 
 		private EngineWrapper _fyreVmWrapper;
 		public string CurrentMainText { get; private set; }
@@ -59,8 +60,22 @@ namespace Assets.Code
 			_fyreVmWrapper.SendCommand(text);
 
 			CurrentMainText = _fyreVmWrapper.FromHash("MAIN");
-            SendMainStateChanged();
-        }
+			SendMainStateChanged();
+
+			var eventText = _fyreVmWrapper.FromHash("EVNT");
+			if(eventText != "")
+			{
+				SendEventOccurred(eventText);
+			}
+		}
+
+		private void SendEventOccurred(string eventText)
+		{
+			if (EventOccurred != null)
+			{
+				EventOccurred(eventText);
+			}
+		}
 
 		private void SendMainStateChanged()
 		{
