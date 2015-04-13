@@ -1,0 +1,90 @@
+Text Adventure
+
+=== Intro ===
+
+"Come on, where is this place?"
+
+Your Berlina Sedan is flowing along the small country road with only trees flashing by on the side of the road. Running along on the right side of the road is a large lake, devoid of any boat or person. You can barely make out the individual trees on the other side. The setting sun casts reflecting rays on the water; this is what a good book would call picturesque.
+
+"Maybe this wasn't such a good idea after all. It would have been so much easier if I stayed home and didn't have to drive all this way."
+
+The calming sounds of Oxygene Garden is coming out of the speakers. The car still has a scent from that Up & Out burger you bought a few miles back.
+
+"I shouldn't say that, I know I wouldn't have been able to relax and calm down at home and the doctor made that point very clear. And I did get a good deal on that cabin."
+
+"I should be there by now, did I make a wrong turn somewhere? Wait, there's the sign the instructions were talking about."
+
+You turn left off the road and follow along a gravel road. You pass by a few houses on the way but they grow more and more separated as you drive. The sun has almost completely vanished from the horizon making the road ahead somewhat dark.
+
+"There it is! Gosh, it looks just like in the pictures!"
+
+You park the car, shut it off, get out and take a moment to look at the cabin.
+
+In front of you is a wooden cabin, made out of large wooden logs with a couple of windows indented into it. In one corner is a small step up and the door to the cabin. The cabin is dark so you can't see anything through the windows. Next to you is your Berlina Sedan, it looks a bit out of place here. You can see part of a lake behind the house to the north. To the south is the gravel path you came from with your car. You can only see trees in the other directions.
+
+> 'any direction'
+It's a bit too dark to be strolling around and besides, you just want to get in the cabin and unpack.
+
+> x Sedan
+
+It's your pretty fancy Berlina Sedan, you've had it for a couple of years and used it extensively since you bought it. It has all the bells and whistles one could wish, why not get all the extras you had thought at the time. Trunkspace is something this car doesn't have but it's large enough to fit your suitcases fine. You can see some papers on the dashboard otherwise it is too dark to distinguish anything in the car.
+
+> get in Sedan
+> look
+
+It's pretty dark in the car but you can see a few papers on the dashboard.
+
+> x papers
+
+You can't really make it anything in this darkness.
+
+> turn on lights
+
+You turn on the car and the lights inside.
+
+> x papers
+
+Apart from a couple of maps and receipts you find a handwritten paper. It reads:
+"Hi Sarah,
+Thank you for renting our cabin. As we mentioned earlier, the house has no electricity so you'll have to use the candles and lanterns available. You can find the key to the cabin under the first step to the door. This is the first time we're renting out the cabin so please contact us if you have any problems or suggestions. We really hope you will enjoy your stay.
+
+Best regards,
+The Johnstons"
+
+> get out
+
+You get out of the car after turning it off.
+
+> x step
+
+It's a small wooden step up to the door. You search beneath it and find a small box.
+
+> take box
+(has box)
+> open box
+
+You find a small key inside the box.
+
+> take key
+(has key)
+> use key on door
+> go inside cabin
+
+It is very dark inside the cabin. The only thing you can barely make out is a lantern right next to the door.
+
+> x lantern
+
+It looks a bit like one of those old timey lanterns with a metal bottom and top with arms connecting the two. In the middle is the glass that contains the fire. This one seems modern enough to have an igniter though.
+
+> ignite lantern
+
+After a few tries with the igniter you get a flame going and the cabin quickly lights up
+
+
+
+> x trunk
+
+
+> x cabin
+
+In general it looks like this house has been taken care of well.
