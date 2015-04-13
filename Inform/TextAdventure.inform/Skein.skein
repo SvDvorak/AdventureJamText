@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x03189288" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x02714558" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7 for Windows</generator>
-  <activeNode nodeId="node-0x031867B8"/>
-  <item nodeId="node-0x03189288">
+  <activeNode nodeId="node-0x027206D8"/>
+  <item nodeId="node-0x02714558">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">TextAdventure&#x000A;An Interactive Fiction by Wilcox Brothers&#x000A;Release 1 / Serial number 150409 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;The sun shines through the thin sheet of the tent. You're still in your sleeping bag and next to you lies Amanda Oliver in her own sleeping bag, still in deep sleep.&#x000A;&#x000A;You can see your backpack (closed) here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -10,16 +10,16 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x03189218"/>
-      <child nodeId="node-0x031890C8"/>
-      <child nodeId="node-0x031F7B40"/>
-      <child nodeId="node-0x03186438"/>
-      <child nodeId="node-0x03186518"/>
-      <child nodeId="node-0x03186588"/>
-      <child nodeId="node-0x03189838"/>
+      <child nodeId="node-0x02714F68"/>
+      <child nodeId="node-0x02715128"/>
+      <child nodeId="node-0x0271E668"/>
+      <child nodeId="node-0x0271E748"/>
+      <child nodeId="node-0x02720198"/>
+      <child nodeId="node-0x0271FE18"/>
+      <child nodeId="node-0x02720438"/>
     </children>
   </item>
-  <item nodeId="node-0x03189218">
+  <item nodeId="node-0x02714F68">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Arboretum&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -27,10 +27,10 @@
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031897C8"/>
+      <child nodeId="node-0x02714FD8"/>
     </children>
   </item>
-  <item nodeId="node-0x031897C8">
+  <item nodeId="node-0x02714FD8">
     <command xml:space="preserve">SHOWME</command>
     <result xml:space="preserve">Gazebo - room&#x000A;    yourself - person&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -38,10 +38,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031891A8"/>
+      <child nodeId="node-0x027150B8"/>
     </children>
   </item>
-  <item nodeId="node-0x031891A8">
+  <item nodeId="node-0x027150B8">
     <command xml:space="preserve">test</command>
     <result xml:space="preserve">&gt;--&gt; No test scripts exist for this game.&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -49,7 +49,7 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x031890C8">
+  <item nodeId="node-0x02715128">
     <command xml:space="preserve">of</command>
     <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -57,10 +57,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x03189758"/>
+      <child nodeId="node-0x02715198"/>
     </children>
   </item>
-  <item nodeId="node-0x03189758">
+  <item nodeId="node-0x02715198">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">A magician's booth stands in the corner, painted dark blue with glittering gold stars.&#x000A;&#x000A;Center Ring&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -68,10 +68,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031892F8"/>
+      <child nodeId="node-0x0271D520"/>
     </children>
   </item>
-  <item nodeId="node-0x031892F8">
+  <item nodeId="node-0x0271D520">
     <command xml:space="preserve">look the</command>
     <result xml:space="preserve">(the magician's booth)&#x000A;It is dark blue and glittering with gold stars. It has been firmly shut.&#x000A;&#x000A;Center Ring&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -79,10 +79,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x03189368"/>
+      <child nodeId="node-0x0271D658"/>
     </children>
   </item>
-  <item nodeId="node-0x03189368">
+  <item nodeId="node-0x0271D658">
     <command xml:space="preserve">look of</command>
     <result xml:space="preserve">It is dark blue and glittering with gold stars. It has been firmly shut.&#x000A;&#x000A;Center Ring&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -90,10 +90,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7520"/>
+      <child nodeId="node-0x0271D7C0"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7520">
+  <item nodeId="node-0x0271D7C0">
     <command xml:space="preserve">look the</command>
     <result xml:space="preserve">(the magician's booth)&#x000A;It is dark blue and glittering with gold stars. It has been firmly shut.&#x000A;&#x000A;Center Ring&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -101,10 +101,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7590"/>
+      <child nodeId="node-0x0271D8F8"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7590">
+  <item nodeId="node-0x0271D8F8">
     <command xml:space="preserve">look of</command>
     <result xml:space="preserve">It is dark blue and glittering with gold stars. It has been firmly shut.&#x000A;&#x000A;Center Ring&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -112,10 +112,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7600"/>
+      <child nodeId="node-0x0271DE38"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7600">
+  <item nodeId="node-0x0271DE38">
     <command xml:space="preserve">look door</command>
     <result xml:space="preserve">It is dark blue and glittering with gold stars. It has been firmly shut.&#x000A;&#x000A;Center Ring&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -123,10 +123,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7670"/>
+      <child nodeId="node-0x0271DF20"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7670">
+  <item nodeId="node-0x0271DF20">
     <command xml:space="preserve">open door</command>
     <result xml:space="preserve">You open the magician's booth.&#x000A;&#x000A;Center Ring&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -134,10 +134,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F76E0"/>
+      <child nodeId="node-0x0271E010"/>
     </children>
   </item>
-  <item nodeId="node-0x031F76E0">
+  <item nodeId="node-0x0271E010">
     <command xml:space="preserve">go inside</command>
     <result xml:space="preserve">The door stands open to the outside.&#x000A;&#x000A;Starry Void&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -145,10 +145,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7750"/>
+      <child nodeId="node-0x0271E2E8"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7750">
+  <item nodeId="node-0x0271E2E8">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">The door stands open to the outside.&#x000A;&#x000A;Starry Void&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -156,10 +156,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F77C0"/>
+      <child nodeId="node-0x0271E438"/>
     </children>
   </item>
-  <item nodeId="node-0x031F77C0">
+  <item nodeId="node-0x0271E438">
     <command xml:space="preserve">close</command>
     <result xml:space="preserve">(the magician's booth)&#x000A;You close the magician's booth.&#x000A;&#x000A;Starry Void&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -167,10 +167,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7830"/>
+      <child nodeId="node-0x0271E358"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7830">
+  <item nodeId="node-0x0271E358">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">A crack of light indicates the way back out to the center ring.&#x000A;&#x000A;Starry Void&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -178,10 +178,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F78A0"/>
+      <child nodeId="node-0x0271E4A8"/>
     </children>
   </item>
-  <item nodeId="node-0x031F78A0">
+  <item nodeId="node-0x0271E4A8">
     <command xml:space="preserve">open door</command>
     <result xml:space="preserve">You open the magician's booth.&#x000A;&#x000A;Starry Void&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -189,10 +189,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7910"/>
+      <child nodeId="node-0x0271E7B8"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7910">
+  <item nodeId="node-0x0271E7B8">
     <command xml:space="preserve">close of</command>
     <result xml:space="preserve">You close the magician's booth.&#x000A;&#x000A;Starry Void&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -200,10 +200,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7980"/>
+      <child nodeId="node-0x0271E828"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7980">
+  <item nodeId="node-0x0271E828">
     <command xml:space="preserve">open of</command>
     <result xml:space="preserve">You open the magician's booth.&#x000A;&#x000A;Starry Void&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -211,10 +211,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7A60"/>
+      <child nodeId="node-0x0271E128"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7A60">
+  <item nodeId="node-0x0271E128">
     <command xml:space="preserve">examine crack of light</command>
     <result xml:space="preserve">The booth door is wide open.&#x000A;&#x000A;Starry Void&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -222,10 +222,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7AD0"/>
+      <child nodeId="node-0x0271E198"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7AD0">
+  <item nodeId="node-0x0271E198">
     <command xml:space="preserve">enter door</command>
     <result xml:space="preserve">A magician's booth stands in the corner, painted dark blue with glittering gold stars.&#x000A;&#x000A;Center Ring&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -233,7 +233,7 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x031F7B40">
+  <item nodeId="node-0x0271E668">
     <command xml:space="preserve">look chaps</command>
     <result xml:space="preserve">You can't use multiple objects with that verb.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -241,10 +241,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7BB0"/>
+      <child nodeId="node-0x0271E3C8"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7BB0">
+  <item nodeId="node-0x0271E3C8">
     <command xml:space="preserve">look chap</command>
     <result xml:space="preserve">Who do you mean, Lewis or Harper?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -252,10 +252,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7C20"/>
+      <child nodeId="node-0x0271E588"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7C20">
+  <item nodeId="node-0x0271E588">
     <command xml:space="preserve">look Lewis</command>
     <result xml:space="preserve">A wiry, excitable engineer who just signed aboard last week.&#x000A;&#x000A;Crew Lounge&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -263,10 +263,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031F7C90"/>
+      <child nodeId="node-0x0271E5F8"/>
     </children>
   </item>
-  <item nodeId="node-0x031F7C90">
+  <item nodeId="node-0x0271E5F8">
     <command xml:space="preserve">l Harper</command>
     <result xml:space="preserve">Harper's a good guy: taciturn when sober, affectionate when drunk, but rarely annoying in either state.&#x000A;&#x000A;Crew Lounge&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -274,10 +274,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031862E8"/>
+      <child nodeId="node-0x0271E6D8"/>
     </children>
   </item>
-  <item nodeId="node-0x031862E8">
+  <item nodeId="node-0x0271E6D8">
     <command xml:space="preserve">l holo</command>
     <result xml:space="preserve">The air above the projector is disappointingly clear.&#x000A;&#x000A;The holographic projector is currently switched off.&#x000A;&#x000A;Crew Lounge&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -285,10 +285,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x03186358"/>
+      <child nodeId="node-0x0271E208"/>
     </children>
   </item>
-  <item nodeId="node-0x03186358">
+  <item nodeId="node-0x0271E208">
     <command xml:space="preserve">turn on holo</command>
     <result xml:space="preserve">You switch the holographic projector on.&#x000A;&#x000A;Crew Lounge&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -296,10 +296,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031863C8"/>
+      <child nodeId="node-0x0271E518"/>
     </children>
   </item>
-  <item nodeId="node-0x031863C8">
+  <item nodeId="node-0x0271E518">
     <command xml:space="preserve">l holo</command>
     <result xml:space="preserve">The projector is now playing a documentary about the early politics of the Mars colony.&#x000A;&#x000A;The holographic projector is currently switched on.&#x000A;&#x000A;Crew Lounge&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -307,7 +307,7 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x03186438">
+  <item nodeId="node-0x0271E748">
     <command xml:space="preserve">take backpack</command>
     <result xml:space="preserve">Taken.&#x000A;&#x000A;Tent&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -315,10 +315,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031864A8"/>
+      <child nodeId="node-0x0271E278"/>
     </children>
   </item>
-  <item nodeId="node-0x031864A8">
+  <item nodeId="node-0x0271E278">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">The sun shines through the thin sheet of the tent. You're still in your sleeping bag and next to you lies Amanda Oliver in her own sleeping bag, still deeply asleep.&#x000A;&#x000A;Tent&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -326,7 +326,7 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x03186518">
+  <item nodeId="node-0x02720198">
     <command xml:space="preserve">look backpack</command>
     <result xml:space="preserve">It's the backpack you brought with you but it looks like someone should have left it behind in the 90"s. It's the only fitting thing you could find in the attic back home.&#x000A;&#x000A;Tent&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -334,7 +334,7 @@
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x03186588">
+  <item nodeId="node-0x0271FE18">
     <command xml:space="preserve">open backpack</command>
     <result xml:space="preserve">You open your backpack, revealing a watch and a wallet.&#x000A;&#x000A;Tent&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -342,11 +342,11 @@
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031865F8"/>
-      <child nodeId="node-0x031866D8"/>
+      <child nodeId="node-0x027205F8"/>
+      <child nodeId="node-0x02720358"/>
     </children>
   </item>
-  <item nodeId="node-0x031865F8">
+  <item nodeId="node-0x027205F8">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">The sun shines through the thin sheet of the tent. You're still in your sleeping bag and next to you lies Amanda Oliver in her own sleeping bag, still deeply asleep.&#x000A;&#x000A;You can see your backpack (closed) here.&#x000A;&#x000A;Tent&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -354,10 +354,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x03186668"/>
+      <child nodeId="node-0x027203C8"/>
     </children>
   </item>
-  <item nodeId="node-0x03186668">
+  <item nodeId="node-0x027203C8">
     <command xml:space="preserve">look backpack</command>
     <result xml:space="preserve">You see nothing special about your backpack.&#x000A;&#x000A;Tent&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -365,7 +365,7 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x031866D8">
+  <item nodeId="node-0x02720358">
     <command xml:space="preserve">look backpack</command>
     <result xml:space="preserve">At the head of your sleeping bag is your backpack, right next to Amandas.&#x000A;&#x000A;In your backpack are a watch and a wallet.&#x000A;&#x000A;Tent&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -373,7 +373,7 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x03189838">
+  <item nodeId="node-0x02720438">
     <command xml:space="preserve">go outside</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;Tent&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -381,10 +381,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x03186748"/>
+      <child nodeId="node-0x02720668"/>
     </children>
   </item>
-  <item nodeId="node-0x03186748">
+  <item nodeId="node-0x02720668">
     <command xml:space="preserve">go inside</command>
     <result xml:space="preserve">Campground&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -392,10 +392,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x031867B8"/>
+      <child nodeId="node-0x027206D8"/>
     </children>
   </item>
-  <item nodeId="node-0x031867B8">
+  <item nodeId="node-0x027206D8">
     <command xml:space="preserve">look backpack</command>
     <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>

@@ -16,8 +16,8 @@ The nTempNum is 0.
 The nRoom is a room that varies.
 
 To printEndGameOutput:
-[--output for the game ending]
-	select the EndGame channel;
+[--output for the game ending
+	select the EndGame channel;]
 	say "GameEnded";
 	select the main channel.
 
